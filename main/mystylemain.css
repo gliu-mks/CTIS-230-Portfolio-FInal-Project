@@ -1,18 +1,14 @@
-h2    {
-    font-style:italic;  }
-h3    {   
+h3 {   
     color:darkslategray; 
     width: fit-content;  
     font-weight: lighter;  
     padding-left: 2%;  
-    font-weight: bold;}
-p  {
+    font-weight: bold;  }
+p {
     color:black;  
-    padding-left: 2%;  }
-li, p {
-    color:darkslategrey;
+    padding-left: 2%;  
     font-size: 0.90em;  }
-body  {  
+body {  
     font-size:  1em;  
     font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  
     margin: 7%;  }
