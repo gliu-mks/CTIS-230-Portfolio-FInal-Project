@@ -28,7 +28,9 @@ div.content {
     flex-direction: row;  }
 
 img {
-    padding-left: 2%;  }
+    /*padding-left: 2%;*/
+    max-width: 100%; 
+    border-image: inset;}
 
 a {
     color: black; 
