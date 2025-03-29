@@ -1,0 +1,51 @@
+h3 {   
+    color:darkslategray; 
+    width: fit-content;  
+    font-weight: lighter;  
+    padding-left: 2%;  
+    font-weight: bold;  }
+p {
+    color:black;  
+    padding-left: 2%;  
+    font-size: 0.90em;  }
+body {  
+    font-size:  1em;  
+    font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  
+    margin: 5% 6%;  }
+
+li {  
+    font-size:  0.90em;  
+    font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  }
+
+div.content1 {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: 0.8em;  
+    flex-direction: column;  }
+div.flexible1 {  
+    display:flex;  
+    margin-top: 1em;  
+    justify-content: center;  }
+
+img {
+    /*padding-left: 2%;*/
+    max-width: 100%; 
+    border-image: inset;}
+
+a {
+    color: black; 
+    text-decoration: none;  }
+a:visited {
+        color: darkslategray;  }
+
+p.subhead {
+    color: cadetblue  }
+
+p.quote {
+    color: aliceblue;
+    background-clip: border-box;
+    background-color: darkslategrey;
+    font-size: 0.9em;
+    padding-left: 2%;  
+    padding-right: 2%;  
+    font-family: "Proxima Nova", Georgia, Times, "Times New Roman", serif;  }
