@@ -35,9 +35,11 @@ body p.link {
 
 img {
     /*padding-left: 2%;*/
+    display: block;    
     max-width: 100%; 
     justify-content: center;  
-    align-content: center;}
+    align-content: center;  
+    text-align: center;  }
 
 a.head {
     color: black; 
