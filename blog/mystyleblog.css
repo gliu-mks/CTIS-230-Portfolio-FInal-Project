@@ -19,11 +19,11 @@ li {
     font-size:  0.90em;  
     font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  }
 
-div.flexible {  
+div.flexible2 {  
     display:flex;  
     margin-top: 1em;  
     justify-content: center;  }
-div.content {
+div.content2 {
     margin-top: 2em;
     margin-bottom: 2em;
     font-size: 0.8em;  
