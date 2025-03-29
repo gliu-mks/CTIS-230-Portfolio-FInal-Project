@@ -35,10 +35,7 @@ img {
     /*padding-left: 2%;*/
     
     max-width: 100%; 
-    border: 4px inset;
-    border-color: gainsboro silver silver gainsboro;
-    justify-content: center;  
-    margin: 2% 3%  }
+    justify-content: center;  }
 
 a.head {
     color: black; 
