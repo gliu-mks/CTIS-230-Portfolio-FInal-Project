@@ -36,7 +36,8 @@ img {
     
     max-width: 100%; 
     border-style: inset;
-    justify-content: center;  }
+    justify-content: center;  
+    margin: 2% 3%}
 
 a.head {
     color: black; 
