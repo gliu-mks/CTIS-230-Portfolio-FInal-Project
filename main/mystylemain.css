@@ -26,20 +26,27 @@ div.content {
     margin-bottom: 2em;
     font-size: 0.8em;  
     flex-direction: row;  }
+body p.link {
+    font-size: 1.5em;  
+    font-weight: bold;  
+    text-align: center;  }
 
 img {
     /*padding-left: 2%;*/
     max-width: 100%; 
     border-image: inset;}
 
-a {
+a.head {
     color: black; 
+    text-decoration: none;  }
+a.link {
+    color: cadetblue;  
     text-decoration: none;  }
 a:visited {
         color: darkslategray;  }
 
 p.subhead {
-    color: cadetblue  }
+    color: cadetblue;  }
 
 p.quote {
     color: aliceblue;
