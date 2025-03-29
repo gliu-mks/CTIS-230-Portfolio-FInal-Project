@@ -35,9 +35,10 @@ img {
     /*padding-left: 2%;*/
     
     max-width: 100%; 
-    border-style: inset;
+    border: 4px inset;
+    border-color: gainsboro silver silver gainsboro;
     justify-content: center;  
-    margin: 2% 3%}
+    margin: 2% 3%  }
 
 a.head {
     color: black; 
