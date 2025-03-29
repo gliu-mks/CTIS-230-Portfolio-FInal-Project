@@ -68,3 +68,8 @@ p.quote {
     padding-left: 2%;  
     padding-right: 2%;  
     font-family: "Proxima Nova", Georgia, Times, "Times New Roman", serif;  }
+
+div.box {
+    border: 4px solid cadetblue;
+    padding: 4%;
+      }
