@@ -36,7 +36,8 @@ body p.link {
 img {
     /*padding-left: 2%;*/
     max-width: 100%; 
-    justify-content: center;  }
+    justify-content: center;  
+    align-content: center;}
 
 a.head {
     color: black; 
