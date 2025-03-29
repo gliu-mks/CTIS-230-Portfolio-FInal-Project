@@ -33,8 +33,9 @@ body p.link {
 
 img {
     /*padding-left: 2%;*/
+    
     max-width: 100%; 
-    border-image: inset;
+    border-style: inset;
     justify-content: center;  }
 
 a.head {
