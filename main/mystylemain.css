@@ -7,7 +7,8 @@ h3 {
 p {
     color:black;  
     padding-left: 2%;  
-    font-size: 0.90em;  }
+    font-size: 0.9em;  
+    font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;}
 body {  
     font-size:  1em;  
     font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  
@@ -33,7 +34,6 @@ body p.link {
 
 img {
     /*padding-left: 2%;*/
-    
     max-width: 100%; 
     justify-content: center;  }
 
