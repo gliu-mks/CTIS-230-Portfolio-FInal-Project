@@ -58,3 +58,7 @@ p.quote {
     padding-left: 2%;  
     padding-right: 2%;  
     font-family: "Proxima Nova", Georgia, Times, "Times New Roman", serif;  }
+
+img.blog {
+    vertical-align: top;
+}
