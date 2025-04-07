@@ -34,7 +34,7 @@ body p.link {
     text-align: center;  }
 
 img {
-    padding: 0% 25% 0%;
+    padding: 0% 50% 0% 50%;
     display: block;    
     max-width: 100%; 
     justify-content: center;  
@@ -70,4 +70,5 @@ p.quote {
 
 div.box {
     border: 4px solid cadetblue;
-    padding: 4%;  }
+    padding: 5%;  
+    font-size: 120%;  }
