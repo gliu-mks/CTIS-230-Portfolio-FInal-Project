@@ -44,6 +44,9 @@ a.head {
 a.link {
     color: cadetblue;  
     vertical-align: top;  }
+a.hover {
+    color: cadetblue;  }
+
 a:visited {
         color: darkslategray;  }
 
