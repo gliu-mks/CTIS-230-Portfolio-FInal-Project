@@ -3,6 +3,8 @@ a:link {
     vertical-align: top;  }
 a:hover {
     color: lightblue;  }
+a:visited {
+    color: cadetblue;  }
 
 h3 {   
     color:darkslategray; 
