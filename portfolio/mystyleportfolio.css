@@ -30,10 +30,18 @@ div.flexible1 {
     margin-top: 1em;  
     justify-content: center;  }
 
-img {
-    /*padding-left: 2%;*/
-    max-width: 100%; 
-    border-image: inset;}
+img.expandable {
+    max-width: 100%;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out; }
+
+    img.expanded {
+        width: 80%;
+        height: auto; 
+        max-width: 100%;
+        max-height: 100%; 
+        z-index: 10; 
+        position: relative;  }
 
 a {
     color: black; 
