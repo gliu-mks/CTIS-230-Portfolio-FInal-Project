@@ -6,7 +6,8 @@ p {
     padding-left: 2%;
     padding-right: 2%;  
     font-size: 0.9em;  
-    font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  }
+    font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  
+    text-align: center; }
 
 div.box {
     text-align: center; }
