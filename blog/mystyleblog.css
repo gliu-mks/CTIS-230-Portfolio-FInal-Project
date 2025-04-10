@@ -7,10 +7,10 @@ p {
     padding-right: 2%;  
     font-size: 0.9em;  
     font-family: "Helvetica Neue", Georgia, "Book Antiqua", serif;  
-    text-align: center; }
+    text-align: left; }
 
 div.box {
-    text-align: center; }
+    text-align: left; }
 
 img {
     display: inline-block; }
