@@ -4,9 +4,12 @@ h3 {
     font-weight: lighter;  
     padding-left: 2%;  
     font-weight: bold;  }
+p.subhead {
+    color: cadetblue;
+    padding-left: 0%;  }
 p {
     color:black;  
-    padding-left: ;  
+    padding-left: 2%;  
     font-size: 0.90em;  }
 body {  
     font-size:  1em;  
@@ -37,9 +40,6 @@ a {
     text-decoration: none;  }
 a:visited {
         color: darkslategray;  }
-
-p.subhead {
-    color: cadetblue  }
 
 p.quote {
     color: aliceblue;
